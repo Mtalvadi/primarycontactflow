@@ -57,7 +57,7 @@ Expected outcome : The “Contact Name” lookup field on the case which is bein
 
 ![image](https://github.com/Mtalvadi/primarycontactflow/assets/83495051/182cdc2d-4b34-4f65-8656-50c9bf5a281b)
 
-![image](https://github.com/Mtalvadi/primarycontactflow/assets/83495051/932b31cb-8d0e-453e-9da1-a21a616fca40) ![image](https://github.com/Mtalvadi/primarycontactflow/assets/83495051/afdad60c-c7d4-4076-bdce-ff778ce13025)
+![image](https://github.com/Mtalvadi/primarycontactflow/assets/83495051/99145ae4-4c3a-49dc-b826-b668895ad42e) ![image](https://github.com/Mtalvadi/primarycontactflow/assets/83495051/97a949ab-5905-4da6-8ce6-6b24265308a5)
 
 ![image](https://github.com/Mtalvadi/primarycontactflow/assets/83495051/64881137-b37d-406d-87ef-fcc634700c36)
 
